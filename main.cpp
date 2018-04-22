@@ -7,8 +7,8 @@ using namespace std;
 
 int main()
 {
-    CColor a(200/*red*/, 28/*green*/, 92/*blue*/);
-    CColor b(0x00BB77FF); //red: 0x66, green: 0x77, blue: 0x55
+    CColor a(255/*red*/, 128/*green*/, 192/*blue*/);
+    CColor b(0x00667755); //red: 0x66, green: 0x77, blue: 0x55
     CColor c(0x0000FFFF);
     cout << "a color = " << a << " " << a("hex") << endl; //should prints (255, 128, 192)
     cout << "b color = " << b << " " << b("hex") << endl; //should prints 0x00667755
