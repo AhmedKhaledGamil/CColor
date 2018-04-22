@@ -7,6 +7,7 @@
 
 - A program to do operations on RGB Triples.
 - Supporting input as Hex or Decimal. 
+- Can print output as Hex or Decimal.
 
 ## Requirements
 
