@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ahmed_nqedrw9/CLionProjects/CColor/CColor.cpp
+CColor.h
+/cygdrive/c/Users/ahmed_nqedrw9/CLionProjects/CColor/CColor.h
+iostream
+-
+bitset
+-
+string.h
+/cygdrive/c/Users/ahmed_nqedrw9/CLionProjects/CColor/string.h
+stdio.h
+/cygdrive/c/Users/ahmed_nqedrw9/CLionProjects/CColor/stdio.h
+stdlib.h
+/cygdrive/c/Users/ahmed_nqedrw9/CLionProjects/CColor/stdlib.h
+sstream
+-
+
+/cygdrive/c/Users/ahmed_nqedrw9/CLionProjects/CColor/CColor.h
+ostream
+-
+bitset
+-
+string.h
+/cygdrive/c/Users/ahmed_nqedrw9/CLionProjects/CColor/string.h
+
+/cygdrive/c/Users/ahmed_nqedrw9/CLionProjects/CColor/main.cpp
+iostream
+-
+CColor.h
+/cygdrive/c/Users/ahmed_nqedrw9/CLionProjects/CColor/CColor.h
+
